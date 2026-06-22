@@ -8,6 +8,7 @@ func square(n int) int {
 
 }
 
+
 //sub2
 func maxNumber(f, d int) int {
 	if f > d {
